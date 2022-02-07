@@ -47,7 +47,7 @@ HTTP Request yaitu dimana server membaca apa yang dikirimkan oleh client melalui
 ## HTTP Response
 HTTP Response yaitu dimana server akan merespon permintaan yang telah dikirimkan oleh client.
 
-## Fungsi FTTP
+## Fungsi HTTP
 - Fungsi HTTP yaitu mengatur format dan bagaimana data ditransmisikan. 
 - HTTP juga berfungsi untuk mengatur bagaimana web server dan browser memproses berbagai macam perintah yang masuk.
 - Ketika  mengakses sebuah website yang mana anda melakukan sebuah request dan Web Server akan memberikan Response. Tidak selamanya website dapat diakses dengan Lancar, terkadang terdapat kode error yang mana setiap kode error tersebut memiliki arti.
