@@ -3,8 +3,8 @@
 - Lulusan [Nama Jurusan] dari [Nama Kampus]
 - Saya suka mempelajari hal-hal baru dan menyukai teknologi, dan saat ini saya sedang fokus pada pengembangan android secara native menggunakan bahasa pemrograman Kotlin. 
 - Saya suka melihat desain yang menarik dan mudah dipahami serta mencari tahu cara menerapkannya pada aplikasi saya. 
-- Proyek tugas akhir yang telah saya kerjakan mengenai pengembangan aplikasi android, dan pengembangan Restful API yang digunakan untuk penyimpanan data yang digunakan pada aplikasi android menggunakan framework Laravel. 
-- Selama masa kuliah saya, saya aktif di beberapa organisasi dan komunitas untuk mengembangkan pengalaman, softskill dan, networking saya. dalam beberapa bulan terakhir saya telah menyelesaikan Bangkit Google Academy pada jalur Pembelajaran Android.
+- Proyek Tugas Akhir yang telah saya kerjakan mengenai [Deskripsi Project Tugas Akhir / Skripsi] 
+- Selama masa kuliah saya, saya [Kegiatan Semasa Kuliah]
 - Sekarang saya sedang mencari posisi di bidang Pengembangan Android dan dapat bekerja dengan loyalitas dan kejujuran dalam sebuah tim.
 
 ## API (Application Programming Interface)
